@@ -12,7 +12,7 @@ Lately I've been most focused on TypeScript, JavaScript, Python, SQL, React, HTM
 
 If you would like to chat about anything I've mentioned here or have any opportunities to share, I'd love to hear from you! Feel free to connect with me at bvoter97@gmail.com.
 
-Find me on GitHub at https://github.com/brian-voter!
+Find me on LinkedIn at https://www.linkedin.com/in/brian-voter/!
 
 <!--
 **brian-voter/brian-voter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
