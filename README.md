@@ -1,6 +1,6 @@
 ### Welcome!
 
-Hi! I'm a software engineer from a computer science background coupled with full stack engineering experience looking for new opportunities!
+Hi! I'm a software engineer with a computer science background coupled with full stack engineering experience looking for new opportunities!
 
 With over a decade of programming experience, I have a genuine passion for building tools that people find helpful to their everyday lives. I've worked on a wide variety of projects including learning management software, game server plugins, recipe apps, and language learning tools.
 
